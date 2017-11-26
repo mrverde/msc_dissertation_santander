@@ -1,0 +1,103 @@
+\begin{thebibliography}{}
+
+\bibitem[Ref, 2017a]{RefWorks:352}
+ (2017a).
+\newblock Kdnuggets.
+
+\bibitem[Ref, 2017b]{RefWorks:354}
+ (2017b).
+\newblock Stack overflow.
+
+\bibitem[Ref, 2017c]{RefWorks:353}
+ (2017c).
+\newblock Wikipedia.
+
+\bibitem[Brownlee, 2015]{RefWorks:336}
+Brownlee, J. (2015).
+\newblock Eight tactics to combat imbalanced classes in your machine learning
+  dataset.
+
+\bibitem[Chang, 2012]{RefWorks:345}
+Chang, W. (2012).
+\newblock {\em R Graphics Cookbook}.
+\newblock O'Reilly Media, USA, 1ª edition.
+
+\bibitem[Chawla et~al., 2002]{RefWorks:337}
+Chawla, N.~V., Bowyer, K.~W., Hall, L.~O., and Kegelmeyer, W.~P. (2002).
+\newblock Smote: Synthetic minority over-sampling technique.
+\newblock {\em Journal Of Artificial Intelligence Research}, 16:321--357.
+
+\bibitem[Cox, 1958]{RefWorks:342}
+Cox, D.~R. (1958).
+\newblock The regression analysis of binary sequences.
+\newblock {\em Journal of the Royal Statistical Society. Series B
+  (Methodological).}, 20(2):215--242.
+
+\bibitem[DMLC, 2017a]{RefWorks:3504}
+DMLC (2017a).
+\newblock Introduction to boosted trees.
+
+\bibitem[DMLC, 2017b]{RefWorks:351}
+DMLC (2017b).
+\newblock Scalable and flexible gradient boosting.
+
+\bibitem[Eremenko and de~Ponteves, 2017]{RefWorks:350}
+Eremenko, K. and de~Ponteves, H. (2017).
+\newblock Machine learning a-z: Hands-on python and r in data science.
+
+\bibitem[Gorman, 2017]{RefWorks:348}
+Gorman, B. (2017).
+\newblock A kaggle master explains gradient boosting.
+
+\bibitem[He, 2015]{RefWorks:343}
+He, T. (2015).
+\newblock Xgboost. extreme gradient boosting.
+
+\bibitem[James et~al., 2015]{RefWorks:346}
+James, G., Witten, D., Hastie, T., and Tibshirani, R. (2015).
+\newblock {\em An Introduction to Statistical Learning with Applications in R}.
+\newblock Springer, USA, 6th edition.
+
+\bibitem[Lantz, 2013]{RefWorks:347}
+Lantz, B. (2013).
+\newblock {\em Machine Learning with R}.
+\newblock Packt publishing, Birmingham, UK.
+
+\bibitem[Lunardon et~al., 2014]{RefWorks:339}
+Lunardon, N., Menardi, G., and Torelli, N. (2014).
+\newblock Rose: a package for binary imbalanced learning.
+\newblock {\em R Journal}, 6(1):82--92.
+
+\bibitem[Menardi and Torelli, 2010]{RefWorks:338}
+Menardi, G. and Torelli, N. (2010).
+\newblock Training and assessing classification rules with unbalanced data.
+\newblock {\em Working Paper Series}, 2.
+
+\bibitem[Ng, 2017]{RefWorks:43504}
+Ng, A. (2017).
+\newblock Cs229 lecture notes: Support vector machines.
+
+\bibitem[Prabhakaran et~al., 2017]{RefWorks:349}
+Prabhakaran, S., Yu-Wei, C., and Lomonaco, V. (2017).
+\newblock Learning path: R: Complete machine learning and deep learning.
+
+\bibitem[Pérez, 2013]{RefWorks:340}
+Pérez, J.~L. (2013).
+\newblock La estadística: Una orquesta hecha instrumento - análisis roc.
+
+\bibitem[Seoane et~al., 2014]{RefWorks:341}
+Seoane, J., Carmona, C.~P., Tarjuelo, R., and Planillo, A. (2014).
+\newblock Análisis bioestadístico con modelos de regresión en r.
+
+\bibitem[Sing et~al., 2005]{RefWorks:335}
+Sing, T., Sander, O., Beerenwinkel, N., and Lengauer, T. (2005).
+\newblock Rocr: visualizing classifier performance in r.
+\newblock {\em Bioinformatics}, 21(20):3940--3941.
+\newblock 10.1093/bioinformatics/bti623.
+
+\bibitem[Wickham, 2016]{RefWorks:344}
+Wickham, H. (2016).
+\newblock {\em ggplot2. Elegant Graphics for Data Analysis}.
+\newblock Springer, USA.
+
+\end{thebibliography}

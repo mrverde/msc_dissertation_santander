@@ -1,0 +1,24 @@
+\select@language {english}
+\select@language {spanish}
+\select@language {english}
+\select@language {spanish}
+\contentsline {figure}{\numberline {1}{\ignorespaces Distribuci\IeC {\'o}n de las observaciones en funci\IeC {\'o}n de su clase}}{20}
+\contentsline {figure}{\numberline {2}{\ignorespaces Variables que componen cada uno de los grupos de variables.}}{21}
+\contentsline {figure}{\numberline {3}{\ignorespaces Grupos de variables. Representaci\IeC {\'o}n gr\IeC {\'a}fica de su peso sobre el total de variables.}}{22}
+\contentsline {figure}{\numberline {4}{\ignorespaces Composici\IeC {\'o}n y n\IeC {\'u}mero de variables que componen los grupos de variables.}}{23}
+\contentsline {figure}{\numberline {5}{\ignorespaces Relaci\IeC {\'o}n de etiquetas y subetiquetas de las variables}}{24}
+\contentsline {figure}{\numberline {6}{\ignorespaces Tipo y n\IeC {\'u}mero de variables que componen los grupos de variables.}}{25}
+\contentsline {figure}{\numberline {7}{\ignorespaces Porcentaje y n\IeC {\'u}mero total de variables con ceros en los grupos de variables.}}{26}
+\contentsline {figure}{\numberline {8}{\ignorespaces Histograma de la variable con el n\IeC {\'u}mero total de ceros de cada observaci\IeC {\'o}n.}}{27}
+\contentsline {figure}{\numberline {9}{\ignorespaces Variables eliminadas.}}{27}
+\contentsline {figure}{\numberline {10}{\ignorespaces Base de datos: conjunto de test y de entrenamiento.}}{29}
+\contentsline {figure}{\numberline {11}{\ignorespaces Base de datos: conjuntos de test, validaci\IeC {\'o}n y entrenamiento.}}{29}
+\contentsline {figure}{\numberline {12}{\ignorespaces Evoluci\IeC {\'o}n de la puntuaci\IeC {\'o}n AUC al escoger las variables de forma sucesiva con la base de datos descompensada.}}{32}
+\contentsline {figure}{\numberline {13}{\ignorespaces Evoluci\IeC {\'o}n de la puntuaci\IeC {\'o}n AUC al escoger las variables de forma sucesiva con la base de datos compensada mediante el m\IeC {\'e}todo downsampling.}}{32}
+\contentsline {figure}{\numberline {14}{\ignorespaces Evoluci\IeC {\'o}n de la puntuaci\IeC {\'o}n AUC al escoger las variables de forma sucesiva con la base de datos compensada mediante el m\IeC {\'e}todo upsampling.}}{33}
+\contentsline {figure}{\numberline {15}{\ignorespaces Evoluci\IeC {\'o}n de la puntuaci\IeC {\'o}n AUC al escoger las variables de forma sucesiva con la base de datos compensada mediante el m\IeC {\'e}todo Smote.}}{33}
+\contentsline {figure}{\numberline {16}{\ignorespaces Evoluci\IeC {\'o}n de la puntuaci\IeC {\'o}n AUC al escoger las variables de forma sucesiva con la base de datos compensada mediante el m\IeC {\'e}todo ROSE.}}{34}
+\contentsline {figure}{\numberline {17}{\ignorespaces M\IeC {\'e}todos de compensaci\IeC {\'o}n. Comparativa de la evoluci\IeC {\'o}n de la puntuaci\IeC {\'o}n AUC al seleccionar variables de forma sucesiva.}}{34}
+\contentsline {figure}{\numberline {18}{\ignorespaces Boruta. Importancia de cada una de las variables}}{38}
+\contentsline {figure}{\numberline {19}{\ignorespaces XGBoost. Importancia relativa de las 15 variables m\IeC {\'a}s importantes.}}{40}
+\contentsline {figure}{\numberline {20}{\ignorespaces Posici\IeC {\'o}n final en la competici\IeC {\'o}n.}}{41}

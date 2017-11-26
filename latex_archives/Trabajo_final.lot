@@ -1,0 +1,11 @@
+\select@language {english}
+\select@language {spanish}
+\select@language {english}
+\select@language {spanish}
+\contentsline {table}{\numberline {1}{\ignorespaces N\IeC {\'u}mero de variables en cada grupo de variables}}{22}
+\contentsline {table}{\numberline {2}{\ignorespaces Tipo de variables}}{23}
+\contentsline {table}{\numberline {3}{\ignorespaces M\IeC {\'a}ximo AUC obtenido en modelos LOGIT con el algoritmo recursivo.}}{35}
+\contentsline {table}{\numberline {4}{\ignorespaces Mejores modelos LOGIT con datos de validaci\IeC {\'o}n.}}{35}
+\contentsline {table}{\numberline {5}{\ignorespaces Puntuaciones obtenidas en kaggle.com por los modelos LOGIT.}}{35}
+\contentsline {table}{\numberline {6}{\ignorespaces XGBoost. Puntuaci\IeC {\'o}n de los 30 modelos con valores de AUC m\IeC {\'a}s altos en el proceso de validaci\IeC {\'o}n.}}{39}
+\contentsline {table}{\numberline {7}{\ignorespaces Mejores resultados AUC obtenidos con cada algoritmo en kaggle.com}}{50}

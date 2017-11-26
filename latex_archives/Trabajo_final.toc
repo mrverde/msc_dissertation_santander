@@ -1,0 +1,44 @@
+\select@language {english}
+\select@language {spanish}
+\select@language {english}
+\select@language {spanish}
+\contentsline {section}{\IeC {\'I}ndice de tablas}{5}
+\contentsline {section}{\IeC {\'I}ndice de gr\IeC {\'a}ficos}{6}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{7}
+\contentsline {subsection}{\numberline {1.1}\IeC {\textquestiondown }Qu\IeC {\'e} problema escoger?}{7}
+\contentsline {subsection}{\numberline {1.2}La elecci\IeC {\'o}n final}{7}
+\contentsline {subsection}{\numberline {1.3}Sobre kaggle.com}{8}
+\contentsline {subsection}{\numberline {1.4}Sobre el Banco Santander}{9}
+\contentsline {subsection}{\numberline {1.5}Acerca de la competici\IeC {\'o}n Santander Customer Satisfaction}{9}
+\contentsline {subsection}{\numberline {1.6}Sobre la Base de Datos}{10}
+\contentsline {subsection}{\numberline {1.7}Objetivos}{10}
+\contentsline {section}{\numberline {2}Modelos predictivos: Algoritmos y evaluaci\IeC {\'o}n}{11}
+\contentsline {subsection}{\numberline {2.1}T\IeC {\'e}cnicas de aprendizaje autom\IeC {\'a}tico: Aprendizaje supervisado}{11}
+\contentsline {subsubsection}{\numberline {2.1.1}Regresi\IeC {\'o}n Log\IeC {\'\i }stica}{12}
+\contentsline {subsubsection}{\numberline {2.1.2}Vecinos m\IeC {\'a}s cercanos}{13}
+\contentsline {subsubsection}{\numberline {2.1.3}Clasificador Bayesiano Ingenuo}{13}
+\contentsline {subsubsection}{\numberline {2.1.4}M\IeC {\'a}quina de soporte vectorial}{14}
+\contentsline {subsubsection}{\numberline {2.1.5}M\IeC {\'e}todos basados en \IeC {\'a}rboles de decisi\IeC {\'o}n}{14}
+\contentsline {paragraph}{\numberline {2.1.5.1}Random Forest}{15}
+\contentsline {paragraph}{\numberline {2.1.5.2}XGBoost}{16}
+\contentsline {subsection}{\numberline {2.2}La evaluaci\IeC {\'o}n de los modelos: El \IeC {\'a}rea bajo la curva ROC (AUC)}{18}
+\contentsline {section}{\numberline {3}Abordando el problema}{19}
+\contentsline {subsection}{\numberline {3.1}Origen de los datos}{19}
+\contentsline {subsection}{\numberline {3.2}An\IeC {\'a}lisis exploratorio y enriquecimiento de los datos}{19}
+\contentsline {section}{\numberline {4}Elaborando los modelos}{31}
+\contentsline {subsection}{\numberline {4.1}Regresi\IeC {\'o}n Log\IeC {\'\i }stica}{31}
+\contentsline {subsection}{\numberline {4.2}KNN}{35}
+\contentsline {subsection}{\numberline {4.3}Clasificador Bayesiano Ingenuo}{36}
+\contentsline {subsection}{\numberline {4.4}M\IeC {\'a}quina de soporte vectorial}{36}
+\contentsline {subsection}{\numberline {4.5}Random Forest}{37}
+\contentsline {subsection}{\numberline {4.6}XGBoost}{38}
+\contentsline {section}{\numberline {5}Postprocesado}{41}
+\contentsline {section}{\numberline {6}Conclusiones}{42}
+\contentsline {section}{\numberline {A}Anexo. C\IeC {\'o}digo regresi\IeC {\'o}n log\IeC {\'\i }stica}{43}
+\contentsline {section}{\numberline {B}Anexo. C\IeC {\'o}digo KNN}{45}
+\contentsline {section}{\numberline {C}Anexo. C\IeC {\'o}digo clasificador bayesiano ingenuo}{46}
+\contentsline {section}{\numberline {D}Anexo. C\IeC {\'o}digo m\IeC {\'a}quina de soporte vectorial}{47}
+\contentsline {section}{\numberline {E}Anexo. C\IeC {\'o}digo Random Forest}{48}
+\contentsline {section}{\numberline {F}Anexo. C\IeC {\'o}digo XGBoost}{49}
+\contentsline {section}{\numberline {G}Anexo. Cuadro resumen}{50}
+\contentsline {section}{Referencias}{51}

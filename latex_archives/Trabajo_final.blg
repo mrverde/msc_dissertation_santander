@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Trabajo_final.aux
+The style file: apalike.bst
+Database file #1: bibliog.bib
+Warning--to sort, need author or key in RefWorks:352
+Warning--to sort, need author or key in RefWorks:353
+Warning--to sort, need author or key in RefWorks:354
+You've used 22 entries,
+            1935 wiz_defined-function locations,
+            586 strings with 6043 characters,
+and the built_in function-call counts, 6386 in all, are:
+= -- 620
+> -- 231
+< -- 13
++ -- 83
+- -- 74
+* -- 494
+:= -- 1183
+add.period$ -- 54
+call.type$ -- 22
+change.case$ -- 145
+chr.to.int$ -- 19
+cite$ -- 28
+duplicate$ -- 255
+empty$ -- 436
+format.name$ -- 97
+if$ -- 1205
+int.to.chr$ -- 4
+int.to.str$ -- 0
+missing$ -- 13
+newline$ -- 101
+num.names$ -- 57
+pop$ -- 119
+preamble$ -- 1
+purify$ -- 147
+quote$ -- 0
+skip$ -- 200
+stack$ -- 0
+substring$ -- 357
+swap$ -- 9
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 124
+warning$ -- 3
+while$ -- 42
+width$ -- 0
+write$ -- 250
+(There were 3 warnings)

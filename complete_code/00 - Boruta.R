@@ -24,17 +24,3 @@ pdf("outputboruta.pdf",width=8,height=5,paper='special')
 plot(roughFixMod, cex.axis=.7, las=2, xlab="", ylab="",
      main="", xaxt="n",outline=FALSE)
 dev.off()
-
-
-
-bind_down$TARGET <- TARGET_down
-output_bind_down_logit <- recursive_logit(data.frame(bind_down), TARGET, bind_validation, TARGET_validation, 70)
-
-bind_up$TARGET <- TARGET_up
-output_bind_up_logit <- recursive_logit(data.frame(bind_up), TARGET, bind_validation, TARGET_validation, 70)
-
-bind_smote$TARGET <- TARGET_smote
-output_bind_smote_logit <- recursive_logit(data.frame(bind_smote), TARGET, bind_validation, TARGET_validation, 70)
-
-bind_rose$TARGET <- TARGET_rose
-output_bind_rose_logit <- recursive_logit(data.frame(bind_rose), TARGET, bind_validation, TARGET_validation, 70)
